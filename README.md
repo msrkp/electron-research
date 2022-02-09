@@ -8,9 +8,9 @@ The following research will be published in an upcoming conference.
 During the end of prototype pollution research, [BlackFan](https://twitter.com/black2fan) and I came across a Prototype Pollution XSS in a web application that has a Desktop Application using ~Electron. So, I tried to escalate it to Remote Code Execution in the Desktop App and eventually I was able to get Remote Code Execution. Eventually, Prototype Pollution research came to an end, and started working on Electron Application and I think the research turned out pretty well.
 
 # Stats
-The number of Applications Pwned: **16**
+The number of Applications Pwned: **18**
 
-The number of times Applications Pwned: **21**
+The number of times Applications Pwned: **23**
 
 # Applications Pwned
 
@@ -19,6 +19,8 @@ Application | Description | Link to Blog/Advisory | CVE
 Discord |  -  | - | -
 VSCode  |  -  | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-43908 | CVE-2021-43908
 Rocket.chat | - | https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/ | -
+Element | - | https://github.com/vector-im/element-desktop/security/advisories/GHSA-mjrg-9f8r-h3m7 | CVE-2022-23597
+
 
 More Apps and Description, will be updated after the presenting at a conference
 
