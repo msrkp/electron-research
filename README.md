@@ -20,6 +20,7 @@ Discord |  -  | - | -
 VSCode  |  -  | https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-43908 | CVE-2021-43908
 Rocket.chat | - | https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/ | -
 Element | - | https://github.com/vector-im/element-desktop/security/advisories/GHSA-mjrg-9f8r-h3m7 | CVE-2022-23597
+Microsoft Teams | File Read  | - | - 
 
 
 More Apps and Description, will be updated after the presenting at a conference
